@@ -1,3 +1,4 @@
 hello
 add a line
 add another line
+add func1
